@@ -1,0 +1,7 @@
+Dataset Source,Observation Date,Data Type,Download Link,Notes
+Hubble Space Telescope – Wide Field Camera,2025-07-21,High-resolution image (coma + nucleus),https://science.nasa.gov/asset/hubble/comet-3i-atlas/,Official NASA image; check STScI archive (proposal ID ~17830) for FITS files.
+Hubble Space Telescope – Compass Image,2025-07-21,Wide-field image showing coma and tail,https://science.nasa.gov/asset/hubble/comet-3i-atlas-compass-image/,Useful for tail/structure analysis; good for photometry comparisons.
+James Webb Space Telescope – NIRSpec Spectroscopy,2025-08-06,Infrared spectrum (0.6–5.3 µm),https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS,Raw/Level2 data in MAST JWST archive; good for CO₂ and volatile detection.
+NASA Multimedia & Trajectory Resources,2025-07 to 2025-08,"Images, animations, downloadable visualizations",https://science.nasa.gov/solar-system/comets/3i-atlas/comet-3i-atlas-multimedia/,Includes images and animations for outreach and visualization.
+Minor Planet Center (MPC) – Orbital Data,2025-07-01 (Discovery),Orbit parameters (hyperbolic trajectory),https://minorplanetcenter.net/mpec/K25/K25N12.html,MPEC 2025-N12; includes discovery and orbit details.
+"Ground-Based Survey Data (ATLAS, ZTF)",2025-05-21 to 2025-07-03,"Pre-discovery images, survey frames (optical)",https://en.wikipedia.org/wiki/3I/ATLAS,Access raw images through ATLAS and ZTF archives; check FITS availability.

@@ -1,0 +1,19 @@
+{
+    "citation": null,
+    "disambiguation_list": null,
+    "dual_status_info": null,
+    "found": 1,
+    "iau_designation": "(3I)",
+    "name": "ATLAS",
+    "object_type": [
+        "Interstellar",
+        50
+    ],
+    "orbfit_name": "3I",
+    "packed_permid": "0003I",
+    "packed_primary_provisional_designation": "CK25N010",
+    "packed_secondary_provisional_designations": [],
+    "permid": "3I",
+    "unpacked_primary_provisional_designation": "C/2025 N1",
+    "unpacked_secondary_provisional_designations": []
+}

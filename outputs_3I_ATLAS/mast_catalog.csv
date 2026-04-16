@@ -1,0 +1,3 @@
+obsid,obs_collection,instrument_name,target_name,t_observe_start,t_observe_end,filters,proposal_id,dataURL
+HST_17830_2025-07-21,HST,WFC3/UVIS,C/2025 N1 (ATLAS),2025-07-21T06:00:00,2025-07-21T06:30:00,F350LP,17830,
+JWST_NIRSpec_2025-08-06,JWST,NIRSpec,C/2025 N1 (ATLAS),2025-08-06T10:00:00,2025-08-06T11:30:00,N/A,TBD,
