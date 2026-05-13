@@ -1,0 +1,17 @@
+metric,1I/'Oumuamua,2I/Borisov,3I/ATLAS
+c12_c13_in_cn,n/a (no coma),≈100 (solar-like),147
+co2_h2o_ratio,n/a (no coma),see notes,elevated (CO2-dominated)
+co_h2o_ratio,,1.7,
+coma_detected,no,yes,yes
+cosmic_ray_surface_processing,,,yes
+discovery_year,2017,2019,2025
+eccentricity,1.2,3.36,see notes (>1)
+metal_emission_at_distance,,,"yes (Ni I, Fe I persist to r_h~2 AU)"
+methane_d_h,n/a (no coma),not measured,0.0331
+n14_n15_in_cn,,,measured
+nongrav_accel_detected,yes,yes,yes
+nucleus_size_m,100–1000 (elongated),200–500,≈1000
+perihelion_au,0.255,2.006,1.357
+perihelion_date,,,2025-10-29
+v_inf_km_s,26.33,32.2,58.0
+water_d_h,n/a (no coma),see notes,> 6.6e-3

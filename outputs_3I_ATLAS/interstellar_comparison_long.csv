@@ -1,0 +1,39 @@
+object,metric,value,unit,source_label,source_arxiv_or_doi
+1I/'Oumuamua,discovery_year,2017,yr,Meech et al. 2017,10.1038/nature25020
+1I/'Oumuamua,v_inf_km_s,26.33,km/s,Meech et al. 2017,10.1038/nature25020
+1I/'Oumuamua,perihelion_au,0.255,AU,Meech et al. 2017,10.1038/nature25020
+1I/'Oumuamua,eccentricity,1.2,—,Meech et al. 2017,10.1038/nature25020
+1I/'Oumuamua,coma_detected,no,—,Meech et al. 2017,10.1038/nature25020
+1I/'Oumuamua,nongrav_accel_detected,yes,—,Micheli et al. 2018 Nature,10.1038/s41586-018-0254-4
+1I/'Oumuamua,water_d_h,n/a (no coma),—,—,
+1I/'Oumuamua,methane_d_h,n/a (no coma),—,—,
+1I/'Oumuamua,co2_h2o_ratio,n/a (no coma),—,—,
+1I/'Oumuamua,c12_c13_in_cn,n/a (no coma),—,—,
+1I/'Oumuamua,nucleus_size_m,100–1000 (elongated),m,Meech et al. 2017,10.1038/nature25020
+2I/Borisov,discovery_year,2019,yr,Guzik et al. 2020 Nature Astron.,10.1038/s41550-019-0931-8
+2I/Borisov,v_inf_km_s,32.2,km/s,Guzik et al. 2020 Nature Astron.,10.1038/s41550-019-0931-8
+2I/Borisov,perihelion_au,2.006,AU,JPL Horizons (orbital solution),
+2I/Borisov,eccentricity,3.36,—,JPL Horizons (orbital solution),
+2I/Borisov,coma_detected,yes,—,Bodewits et al. 2020 Nature Astron.,10.1038/s41550-020-1095-2
+2I/Borisov,nongrav_accel_detected,yes,—,de la Fuente Marcos+ 2020,
+2I/Borisov,water_d_h,see notes,—,Aravind et al. (limit only),
+2I/Borisov,methane_d_h,not measured,—,—,
+2I/Borisov,co_h2o_ratio,1.7,—,Bodewits et al. 2020 Nature Astron.,10.1038/s41550-020-1095-2
+2I/Borisov,co2_h2o_ratio,see notes,—,—,
+2I/Borisov,c12_c13_in_cn,≈100 (solar-like),—,Manzini et al. 2020,
+2I/Borisov,nucleus_size_m,200–500,m,Jewitt et al. 2020,
+3I/ATLAS,discovery_year,2025,yr,ATLAS survey / MPC,
+3I/ATLAS,v_inf_km_s,58.0,km/s,Ahuja & Ganesh 2025 ApJL 995 L13,arXiv:2511.16247
+3I/ATLAS,perihelion_au,1.357,AU,JPL Horizons (orbital solution),
+3I/ATLAS,perihelion_date,2025-10-29,UT,JPL Horizons / Biver et al. 2026 A&A 708 L16,arXiv:2603.23240
+3I/ATLAS,eccentricity,see notes (>1),—,JPL Horizons (orbital solution),
+3I/ATLAS,coma_detected,yes,—,Roth et al. 2026 JWST,arXiv:2603.20460
+3I/ATLAS,nongrav_accel_detected,yes,—,"Spada, Królikowska, Dones 2026",arXiv:2603.00782
+3I/ATLAS,water_d_h,> 6.6e-3,—,Salazar Manzano et al. 2026 Nat. Astron. (accepted),arXiv:2603.07026
+3I/ATLAS,methane_d_h,0.0331,—,"Roth, Cordiner et al. 2026 JWST",arXiv:2603.20445
+3I/ATLAS,co2_h2o_ratio,elevated (CO2-dominated),—,Roth et al. 2026 JWST NIRSpec,arXiv:2603.20460
+3I/ATLAS,c12_c13_in_cn,147,—,Opitom et al. 2026 (submitted Nature),arXiv:2603.07187
+3I/ATLAS,n14_n15_in_cn,measured,—,Opitom et al. 2026 (submitted Nature),arXiv:2603.07187
+3I/ATLAS,nucleus_size_m,≈1000,m,Forbes & Butler 2025,arXiv:2512.18341
+3I/ATLAS,metal_emission_at_distance,"yes (Ni I, Fe I persist to r_h~2 AU)",—,Hutsemékers et al. 2026 UVES+VLT,arXiv:2605.07652
+3I/ATLAS,cosmic_ray_surface_processing,yes,—,Maggiolo et al. 2025,arXiv:2510.26308
